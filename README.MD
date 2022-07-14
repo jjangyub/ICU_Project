@@ -108,10 +108,6 @@ mediapipe hand estimation은 pose estimation과 달리 손의 좌표만을 따�
 </br>
 
 cctv는 고정이라고 가정
-
-</br>
-
-
 사진 속에서 키패드의 좌표를 따서
 
 키패드 좌표의 범위 안으로 들어오면 1이 뜨도록 조건문을 작성 
