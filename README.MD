@@ -106,7 +106,10 @@ mediapipe hand estimation은 pose estimation과 달리 손의 좌표만을 따�
 키패드에 손을 대는 행동에 대하여 적용
 
 </br>
-cctv는 고정이라고 가정 </br>
+
+cctv는 고정이라고 가정 
+
+</br>
 
 
 사진 속에서 키패드의 좌표를 따서
